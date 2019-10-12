@@ -1,0 +1,31 @@
+Object: Great Dane
+
+Attributes:
+furColor: [grey, white, black]
+weight: 130
+isCute: True
+favoriteToy: "tug toy"
+name: "Bruce"
+isFluffy: False
+
+Methods:
+play: throw tug toy
+recall: call Bruce
+brush: isFluffy = False do not brush
+pickUp 130 > 100 do not lift
+
+Object: Golden Retriever
+
+Attributes:
+furColor: [yellow]
+weight: 60
+isCute: True
+favoriteToy: "ball"
+name: "Marshall"
+isFluffy: True
+
+Methods:
+play: throw ball
+recall: call Marshall
+brush: isFluffy = True
+pickUp: 60 < 100 
