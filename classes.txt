@@ -1,0 +1,15 @@
+Class: Doing
+
+Attributes:
+furColor: (array)
+weight: (integer)
+isCute: (boolean)
+favoriteToy: (string)
+name: (string)
+isFluffy: (boolean)
+
+Methods:
+play (throw favoriteToy)
+recall (call name)
+brush (if isFluffy is true brush fur)
+pickUp (if weight is less than 100 lb pick up)
